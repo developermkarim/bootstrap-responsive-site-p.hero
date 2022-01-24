@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Influencer Producer</title>
+      <script src="https://kit.fontawesome.com/92d6c198cd.js" crossorigin="anonymous"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="css/responsive.css">
+      <link rel="stylesheet" href="css/grid-flex.css">
+   </head>
+   <body>
+      <!-- Header Part Start -->
+      <section id="product-header">
+         <div class="container">
+            <div class="product-menu ">
+               <div class="product-title">
+                  <h3>Influencer Products</h3>
+               </div>
+               <div class="product-nav">
+                  <ul>
+                     <li><a href="">Home</a></li>
+                     <li><a href="">Products</a></li>
+                     <li><a href="">Sign Up</a></li>
+                     <li><a href="">Log In</a></li>
+                     <li><a href=""> Search  </a></li>
+                     <li><a href="">Shopping</a></li>
+                  </ul>
+               </div>
+            </div>
+            <div class="hero-area">
+               <div class="hero-side">
+                  <div class="hero-info">
+                     <h1 class="hero-title">
+                        Start your Journey  as <br>
+                        Influencer
+                     </h1>
+                     <p>
+                        Learn about the state of influencer marketing in the consumer technology industry in this dashboard of data about tech influencers. See how tech influencers perform  better influencer marketing decisions for your tech brand.
+                     </p>
+                     <a href=""> <button>
+                     Preebook now  <i class="far fa-hand-point-right"></i>
+                     </button>
+                     </a>
+                  </div>
+               </div>
+               <div class="hero-img"><img src="images/main-camera.png" alt="">
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- Header Part End -->
+      <!-- Popular Collection HTML start -->
+      <section id="collection-item">
+         <div class="container">
+            <div class="collection-header">
+               <h2> Popular Collection
+               </h2>
+            </div>
+            <div class="product-items">
+               <div class="item">
+                  <div class="item-img">
+                     <img src="images/lights.png" alt="">
+                  </div>
+                  <div class="item-details">
+                     <div class="item-texts">
+                        <h2>Light Setup</h2>
+                        <h3>$320.89
+                        </h3>
+                        <span>
+                           <i class="far fa-star" style="color: red;"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           </i>
+                           <i class="fas fa-star-half-alt"></i>
+                           <p class="rating">4.99</p>
+                        </span>
+                        <span>Wordwide shifting</span>
+                        <span>available</span>
+                        <span>Buyers protection possible!</span>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="item-img">
+                     <img src="images/setup.png" alt="">
+                  </div>
+                  <div class="item-details">
+                     <div class="item-texts">
+                        <h2>Photoshoot set</h2>
+                        <h3>$190.55
+                        </h3>
+                        <span>
+                           <i class="far fa-star" style="color: red;"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           </i>
+                           <i class="fas fa-star-half-alt"></i>
+                           <p class="rating">4.99</p>
+                        </span>
+                        <span>Wordwide shifting</span>
+                        <span>available</span>
+                        <span>Buyers protection possible!</span>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="item-img">
+                     <img src="images/camera.png" alt="">
+                  </div>
+                  <div class="item-details">
+                     <div class="item-texts">
+                        <h2>Vlogging Camera</h2>
+                        <h3>$99.78
+                        </h3>
+                        <span>
+                           <i class="far fa-star" style="color: red;"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           </i>
+                           <i class="fas fa-star-half-alt"></i>
+                           <p class="rating">4.99</p>
+                        </span>
+                        <span>Wordwide shifting</span>
+                        <span>available</span>
+                        <span>Buyers protection possible!</span>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="item-img">
+                     <img src="images/single-light.png" alt="">
+                  </div>
+                  <div class="item-details">
+                     <div class="item-texts">
+                        <h2>Green Screen</h2>
+                        <h3>$73.96
+                        </h3>
+                        <span>
+                           <i class="far fa-star" style="color: red;"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           </i>
+                           <i class="fas fa-star-half-alt"></i>
+                           <p class="rating">4.99</p>
+                        </span>
+                        <span>Wordwide shifting</span>
+                        <span>available</span>
+                        <span>Buyers protection possible!</span>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="item-img">
+                     <img src="images/action.png" alt="">
+                  </div>
+                  <div class="item-details">
+                     <div class="item-texts">
+                        <h2>Action Camera</h2>
+                        <h3>$86.80
+                        </h3>
+                        <span>
+                           <i class="far fa-star" style="color: red;"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           </i>
+                           <i class="fas fa-star-half-alt"></i>
+                           <p class="rating">4.99</p>
+                        </span>
+                        <span>Wordwide shifting</span>
+                        <span>available</span>
+                        <span>Buyers protection possible!</span>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="item-img">
+                     <img src="images/airpod.png" alt="">
+                  </div>
+                  <div class="item-details">
+                     <div class="item-texts">
+                        <h2>Airbuds</h2>
+                        <h3>$187.45
+                        </h3>
+                        <span>
+                           <i class="far fa-star" style="color: red;"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           </i>
+                           <i class="fas fa-star-half-alt"></i>
+                           <p class="rating">4.99</p>
+                        </span>
+                        <span>Wordwide shifting</span>
+                        <span>available</span>
+                        <span>Buyers protection possible!</span>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="item-img">
+                     <img src="images/drone.png" alt="">
+                  </div>
+                  <div class="item-details">
+                     <div class="item-texts">
+                        <h2>Drone</h2>
+                        <h3>$237.47
+                        </h3>
+                        <span>
+                           <i class="far fa-star" style="color: red;"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           </i>
+                           <i class="fas fa-star-half-alt"></i>
+                           <p class="rating">4.99</p>
+                        </span>
+                        <span>Wordwide shifting</span>
+                        <span>available</span>
+                        <span>Buyers protection possible!</span>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="item-img">
+                     <img src="images/mic.png" alt="">
+                  </div>
+                  <div class="item-details">
+                     <div class="item-texts">
+                        <h2>microphone</h2>
+                        <h3>$100.89
+                        </h3>
+                        <span>
+                           <i class="far fa-star" style="color: red;"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           </i>
+                           <i class="fas fa-star-half-alt"></i>
+                           <p class="rating">4.99</p>
+                        </span>
+                        <span>Wordwide shifting</span>
+                        <span>available</span>
+                        <span>Buyers protection possible!</span>
+                     </div>
+                  </div>
+               </div>
+               <div class="item last-item">
+                  <div class="item-img">
+                     <img src="images/tripod.png" alt="">
+                  </div>
+                  <div class="item-details">
+                     <div class="item-texts">
+                        <h2>Flex Tripod</h2>
+                        <h3>$120.89
+                        </h3>
+                        <span>
+                           <i class="far fa-star" style="color: red;"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           <i class="far fa-star"></i>
+                           </i>
+                           <i class="fas fa-star-half-alt"></i>
+                           <p class="rating">4.99</p>
+                        </span>
+                        <span>Wordwide shifting</span>
+                        <span>available</span>
+                        <span>Buyers protection possible!</span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="see-more">
+               <a href=""> 
+               See More  <i class="far fa-hand-point-right"></i>
+               </a>
+            </div>
+         </div>
+      </section>
+      <!-- Popular Collection HTML Eb=nd -->
+      <!-- Sign Up For Promo Code -->
+      <section id="promo-code">
+         <h1>Get In Touch</h1>
+         <div class="sign-area container">
+            <div class="sign-up">
+               <div class="sign-up-text">
+                  <h3>
+                     Hey, Wait
+                  </h3>
+                  <p><strong>Sign up to get promo codes in your inbox.</strong></p>
+                  <p>You will never miss exclusive savings for subscribers.</p>
+               </div>
+               <div class="sign-up-form">
+                  <form action="">
+                     <i class="fas fa-envelope-open-text"></i>
+                     <input class="email-input" type="text" placeholder="Enter Your Email Address">
+                     <input type="submit" value="Sign Up">
+                  </form>
+                  <div class="more-email">
+                     <a href=""> 
+                     View Latest Email Deals <i class="fa fa-angle-right" aria-hidden="true"></i> 
+                     </a>
+                  </div>
+               </div>
+            </div>
+            <div class="download-app">
+               <div class="app-title">
+                  <h2>DOWNLOAD OUR APP</h2>
+               </div>
+               <div class="app-images">
+                  <div class="apps">
+                     <ul>
+                        <li><a href=""><img src="images/google app.png" width="120px" height="35px" alt=""></a></li>
+                        <li><a href=""><img src="images/mobile app.PNG"width="140px" height="40px" style="margin-left: -10px;"  alt=""></a></li>
+                        <li><a href=""><img src="images/app store.png" width="120px" height="40px" alt=""></a></li>
+                     </ul>
+                  </div>
+                  <div class="app-img">
+                     <img width="200px" height="150px" src="images/bg_our_app.png" alt="">
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- Sign Up For Promo Code End -->
+      <!-- Footer Area -->
+      <footer>
+         <div class="footer-area">
+            <div class="footer-text">
+               <h3>Influencer products
+               </h3>
+               <p> © Copyright 2022 - Mahmodul Karim</p>
+               <p>All Rights reserved</p>
+            </div>
+            <div class="social-link">
+               <ul>
+                  <li><a href=""><i class="fab fa-facebook-square"></i> </a></li>
+                  <li><a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                  </li>
+                  <li><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+               </ul>
+            </div>
+         </div>
+      </footer>
+   </body>
+</html>

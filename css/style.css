@@ -1,0 +1,64 @@
+
+ /* Google Font Awesome */
+
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300&family=Poppins:wght@100;200;300;400;500;600;700&family=Ubuntu:wght@300;400;500&display=swap');
+
+/* -------------------
+ Common CSS 
+ --------------------------*/
+ 
+ *{
+     margin: 0;
+     padding: 0;
+
+ }
+body{
+font-family: 'Poppins', sans-serif;
+background-color: rgb(255 255 255);
+overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+
+}
+
+/* Button css */
+
+.button, .button:hover {
+    border: 1px solid #fff!important;
+    color: #ddd!important;
+    background: rgb(243 24 24 / 20%);
+    height: 45px;
+    line-height: 45px;
+    padding: 1px 40px 0;
+    font-size: 20px;
+    font-family: Lato,sans-serif;
+}
+
+/*  package- css */
+.package-list li{
+    padding-top: 5px;
+}
+.choose-link{
+   background-color:#cdcdcd;
+      font-size: 15px;
+        font-weight: 600;
+        color: #8747e7;
+      
+    }
+    .fa-check{
+        font-size: 13px;
+        color: rgb(83, 83, 83);
+        margin-right: 3px;
+       
+    }
+    .hot-item{
+        background-color: indigo;
+        border-radius: 20px;
+        
+    }
+   .pricing-card-title{
+       font-size: 28px;
+       font-weight: 600;
+   }
+/*  package- css */
